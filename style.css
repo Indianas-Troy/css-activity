@@ -3,3 +3,34 @@ p {color: grey;
    
   margin-top: px; 
 }
+
+.album-info {
+  font-style: oblique;
+  color: blue;
+  margin-left: 275px;
+}
+
+h1 {
+  font-style: italic;
+}
+
+img {
+  height: 250px;
+}
+
+li {
+  border-color: crimson;
+  border-style: solid;
+  width: 700px;
+  list-style: none;
+}
+
+.album-button {
+  background-color: indigo;
+  border: lightcoral;
+  color: aqua;
+margin-left: 270px;
+cursor: pointer;
+font-size: 16px;
+padding: 12px 28px;
+width: fit-content;}
